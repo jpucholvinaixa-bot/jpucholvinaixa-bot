@@ -1,6 +1,6 @@
 ## # 🛠️ Treballant per deixar de ser com el cat.gif de perfil
 
-Estudiant d'Enginyeria Electrònica de Telecomunicacions ⚡
+Estudiant d'Enginyeria Electrònica de Telecomunicacions (parguelita)
 
 * Si funciona: **Màgia.**
 * Si no funciona: **Falta un punt i coma o un segfault de C++.**
